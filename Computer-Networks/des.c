@@ -190,3 +190,6 @@ int main() {
     
     return 0;
 }
+
+// gcc DES.c -o des
+// ./des
